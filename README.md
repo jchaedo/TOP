@@ -1,0 +1,3 @@
+First exercises from The Odin Project Foundations course.
+
+Eventually used "git-filter-repo" apt package to move odin-recipes to it's own repo. As it was advised at the beginning...
